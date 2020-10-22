@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ServeltAndRequest:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c689a137-6f73-4596-a0d4-d6f87ec1f707" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../3g/3g.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/Algorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/src/cn/ly/DynamicProgramming/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algorithm/src/cn/ly/DynamicProgramming/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cookie/Cookie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cookie/src/cn/ly/servlet/CookieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cookie/src/cn/ly/servlet/GetCookieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloServlet/HelloServlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/DirCopy/DirrectoryCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/File/ContentEncode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/File/DirCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/File/DirDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/File/DirDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/File/DirDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/File/DirDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/File/FileDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/File/FileDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/File/FileDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/File/FileDemo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/File/FileDemo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/File/PathDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOStudy02/BufferedTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOStudy02/BufferedTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOStudy02/BufferedTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOStudy02/BufferedTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOStudy02/ConvertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOStudy02/DataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOStudy02/ObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOStudy02/ObjectTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOstudy01/Copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOstudy01/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOstudy01/FileUtils02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOstudy01/IOTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOstudy01/IOTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOstudy01/IOTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOstudy01/IOTest04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOstudy01/IOTest05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOstudy01/IOTest06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOstudy01/IOTest07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOstudy01/IOTest08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOstudy01/IOTest09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/IOstudy01/abc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/ly/123.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/ly/Copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/ly/DirCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/ly/IOTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/second/ly/IOTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IO/src/cn/study/test/tetest/DirCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImprovServlet/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImprovServlet/.idea/artifacts/ImprovServlet_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImprovServlet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImprovServlet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImprovServlet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ImprovServlet/src/com/servlet/userservlet/CustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCTest/JDBCTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCTest/out/production/JDBCTest/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCTest/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jsp/Jsp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jsp/web/1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Jsp/web/jspProgram.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JustTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JustTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JustTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JustTest/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JustTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JustTest/JustTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JustTest/src/cn/test/CharAndInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JustTest/src/cn/test/DirCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JustTest/src/cn/test/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/Login.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/cn/ly/dao/LoginDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/cn/ly/dao/impl/LoginDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/cn/ly/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/cn/ly/service/LoginService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/cn/ly/service/impl/LoginServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/cn/ly/servlet/CookieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/cn/ly/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/cn/ly/servlet/MainServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/cn/ly/servlet/PageServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/src/cn/ly/servlet/ShowServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Login/web/WEB-INF/lib/mysql-connector-java-8.0.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/NetStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/HandChat/Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/HandChat/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/HandChat/Receive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/HandChat/Send.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/HandChat/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/loc/SpiderTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/tcp/Chat01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/tcp/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/tcp/FileClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/tcp/FileServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/tcp/LoginClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/tcp/LoginMultiClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/tcp/LoginMultiServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/tcp/LoginServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/tcp/LoginTwoWayClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/tcp/LoginTwoWayServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/tcp/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/udp/IOUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/udp/TalkReceive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/udp/TalkSend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/udp/TalkStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/udp/TalkTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/udp/UdpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/udp/UdpFileClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/udp/UdpFileServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/udp/UdpObjClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/udp/UdpObjServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/udp/UdpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/udp/UdpTalkClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/udp/UdpTalkServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/udp/UdpTypeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NetStudy/src/udp/UdpTypeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refelction/Refelction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refelction/src/cn/ly/test/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refelction/src/cn/ly/test/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refelction/src/cn/ly/test/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refelction/src/cn/ly/test/Reflect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refelction/src/cn/ly/test/ReflectionCreate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Refelction/src/cn/ly/test/bean/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ServeltAndRequest_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServeltAndRequest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServeltAndRequest_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ServeltAndRequest_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BeanServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletConfig/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletConfig/.idea/artifacts/ServletConfig_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletConfig/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletConfig/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletConfig/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletConfig/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletConfig/ServletConfig.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletConfig/src/cn/ly/Servlet/ServletConfigServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletConfig/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletContext/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletContext/.idea/artifacts/ServletContext_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletContext/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletContext/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletContext/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletContext/ServletContext.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletContext/src/cn/ly/servlet/ServeltContextServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletContext/src/cn/ly/servlet/ServletContextServlet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session/Session.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session/src/cn/ly/servlet/SessionServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session/src/cn/ly/servlet/SessionServlet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/Tree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/src/test/BiTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/src/test/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/src/test/BinaryTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/src/test/LDR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/src/test/LRD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tree/src/test/VLR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebProject/WebProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebProject/src/cn/ly/servlet/MyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebProject/web/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/aaaa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/src/cn/test01/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/src/cn/test01/DirCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/src/cn/test01/JDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/src/cn/test01/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/src/cn/test01/Reflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/src/cn/test01/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/src/cn/test01/link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/src/cn/test01/pailie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aaaa/src/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app01/app01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app01/src/cn/ly/app01a/MyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app01/src/cn/ly/app01a/ServletConfigDemoServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app01/src/cn/ly/app01b/FormServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app01/src/cn/ly/app02a/COOKIE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app01/src/cn/ly/app02a/Top10Servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app01/src/cn/ly/app02a/cookie/PreferenceServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app01/src/cn/ly/app02a/hiddenfields/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app01/src/cn/ly/app02a/hiddenfields/CustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app01/src/cn/ly/app02b/Top10Servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app01/web/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app03a/app03a.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/.idea/artifacts/case_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/.idea/libraries/lib__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/.idea/libraries/lib__3_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/case.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/out/production/case/cn/itcast/web/servlet/UserListServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/src/cn/itcast/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/src/cn/itcast/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/src/cn/itcast/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/src/cn/itcast/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/src/cn/itcast/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/src/cn/itcast/util/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/src/cn/itcast/web/servlet/AddUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/src/cn/itcast/web/servlet/CheckCodeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/src/cn/itcast/web/servlet/DelUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/src/cn/itcast/web/servlet/FindUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/src/cn/itcast/web/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/src/cn/itcast/web/servlet/UpdateServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/src/cn/itcast/web/servlet/UserListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/src/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/WEB-INF/lib/c3p0-0.9.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/WEB-INF/lib/druid-1.0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/WEB-INF/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/WEB-INF/lib/jstl-impl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/WEB-INF/lib/mysql-connector-java-8.0.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/js/jquery-2.1.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case/web/update.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/.idea/artifacts/case02_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/.idea/libraries/lib__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/case02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/src/cn/ly/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/src/cn/ly/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/src/cn/ly/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/src/cn/ly/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/src/cn/ly/service/impl/UserServiceIml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/src/cn/ly/servlet/AddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/src/cn/ly/servlet/DelServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/src/cn/ly/servlet/ShowServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/src/cn/ly/util/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/src/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/web/1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/web/WEB-INF/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/web/WEB-INF/lib/jstl-impl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/web/WEB-INF/lib/mysql-connector-java-8.0.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/web/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../case02/web/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leecode/leecode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leecode/src/_19_RemoveNthNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package_explore/src/cn/ly/Sep_12nd/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package_explore/src/cn/ly/Sep_12nd/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package_explore/src/cn/ly/Sep_12nd/MyArrayList02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package_explore/src/cn/ly/Sep_12nd/TestIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../package_explore/src/cn/ly/testTwo/Muster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/src/NewPoland/PolishNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/src/NewPoland/PolishNotation02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/src/NewPoland/PolishNotation03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/src/PolandNotation/PolandNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/src/test/PolandNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../stack/src/test/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC/src/OK/demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC/src/cn/ly/TestJDBC/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC/src/cn/ly/TestJDBC/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC/src/cn/ly/TestJDBC/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC/src/cn/ly/TestJDBC/Demo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC/src/cn/ly/TestJDBC/Demo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC/src/cn/ly/TestJDBC/Demo06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC/src/cn/ly/TestJDBC/Demo07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC/src/cn/ly/TestJDBC/Demo08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC/src/cn/ly/TestJDBC/Demo09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC/src/cn/ly/TestJDBC/JDBCUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC/src/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC/testJDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC02/src/cn/ly/test/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC02/src/cn/ly/test/Demo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC02/src/cn/ly/test/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC02/src/cn/ly/test/JDBCUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testJDBC02/testJDBC02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSORM/src/cn/ly/test/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSORM/src/cn/ly/test/Demo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSORM/src/cn/ly/test/Dept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSORM/src/cn/ly/test/Dmoe02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSORM/src/cn/ly/test/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSORM/src/cn/ly/test/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSORM/src/cn/ly/test/testUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSORM/src/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testSORM/testSORM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/Cooperation/CoTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/Cooperation/CoTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/Sep_11st/Cooperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/Sep_11st/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadMethod/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadMethod/ThreadPoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy/AllState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy/BlockedSleep03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy/LambdaTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy/LambdaTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy/LambdaThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy/Race.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy/StartRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy/StartThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy/StaticProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy/Web12306.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy/YieldDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy03syn/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy03syn/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy03syn/HappyCinema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy03syn/SynBlockTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy03syn/SynBlockTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy03syn/SynTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy03syn/UnSafeTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy03syn/UnsafeTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thread/src/cn/ThreadStudy03syn/UnsafeTest03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3g/src/test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3g/src/test02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3g/src/test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3g/src/test03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/def.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/cn/second/abc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/out/production/IO/META-INF/IO.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/out/production/IO/cn/ly/file/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/out/production/IO/cn/ly/fileiostream/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/out/production/IO/cn/ly/fileiostream/Test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/out/production/IO/cn/ly/fileiostream/Test03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/out/production/IO/cn/ly/fileiostream/Test04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/out/production/IO/cn/ly/fileiostream/Test05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/out/production/IO/cn/ly/object/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/out/production/IO/cn/ly/object/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/out/production/IO/cn/ly/object/Test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/out/production/IO/cn/ly/print/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/out/production/IO/cn/ly/print/Test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/out/production/IO/cn/ly/readerwriter/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/out/production/IO/cn/ly/readerwriter/Test02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/out/production/IO/cn/ly/readerwriter/Test03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/out/production/IO/cn/ly/readerwriter/Test04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/cn/ly/file/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/cn/first/file/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/cn/ly/fileiostream/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/cn/first/fileiostream/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/cn/ly/fileiostream/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/cn/first/fileiostream/Test02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/cn/ly/fileiostream/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/cn/first/fileiostream/Test03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/cn/ly/fileiostream/Test04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/cn/first/fileiostream/Test04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/cn/ly/fileiostream/Test05.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/cn/first/fileiostream/Test05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/cn/ly/object/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/cn/first/object/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/cn/ly/object/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/cn/first/object/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/cn/ly/object/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/cn/first/object/Test02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/cn/ly/print/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/cn/first/print/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/cn/ly/print/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/cn/first/print/Test02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/cn/ly/readerwriter/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/cn/first/readerwriter/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/cn/ly/readerwriter/Test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/cn/first/readerwriter/Test02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/cn/ly/readerwriter/Test03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/cn/first/readerwriter/Test03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IO/src/cn/ly/readerwriter/Test04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IO/src/cn/first/readerwriter/Test04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package_explore/out/production/package_explore/META-INF/package_explore.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package_explore/out/production/package_explore/cn/ly/mycollection/ArrayList05.class" beforeDir="false" afterPath="$PROJECT_DIR$/../package_explore/out/production/package_explore/cn/ly/mycollection/ArrayList05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package_explore/out/production/package_explore/cn/ly/mywork/ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package_explore/out/production/package_explore/cn/ly/mywork/HashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package_explore/out/production/package_explore/cn/ly/mywork/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package_explore/src/cn/ly/mycollection/ArrayList05.java" beforeDir="false" afterPath="$PROJECT_DIR$/../package_explore/src/cn/ly/mycollection/ArrayList05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package_explore/src/cn/ly/mycollection/HashMap04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../package_explore/src/cn/ly/mycollection/HashMap04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package_explore/src/cn/ly/work/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../package_explore/src/cn/ly/work/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stack/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stack/src/queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stack/src/queue/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thread/out/production/thread/cn/ThreadMethod/NumThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../thread/out/production/thread/cn/ThreadMethod/NumThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thread/out/production/thread/cn/ThreadMethod/OKThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/../thread/out/production/thread/cn/ThreadMethod/OKThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thread/out/production/thread/cn/ThreadMethod/Thread3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../thread/out/production/thread/cn/ThreadMethod/Thread3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thread/src/cn/sellTicket/windowTestPlus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../thread/src/cn/sellTicket/windowTestPlus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../栈/src/stack/LinkedStack.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1j2kY63QvDYrW0X2WSnD8T6GyLE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.33" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.33" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="ServeltAndRequest:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ServeltAndRequest_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_33_ServeltAndRequest" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ServeltAndRequest:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c689a137-6f73-4596-a0d4-d6f87ec1f707" name="Default Changelist" comment="" />
+      <created>1603009618470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603009618470</updated>
+      <workItem from="1603009621162" duration="1290000" />
+      <workItem from="1603014813319" duration="628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="845" height="163" key="GridCell.Tab.0.bottom" timestamp="1603015445757">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1603015445757" />
+    <state width="845" height="163" key="GridCell.Tab.0.center" timestamp="1603015445757">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1603015445757" />
+    <state width="845" height="163" key="GridCell.Tab.0.left" timestamp="1603015445757">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1603015445757" />
+    <state width="845" height="163" key="GridCell.Tab.0.right" timestamp="1603015445757">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1603015445757" />
+    <state width="845" height="163" key="GridCell.Tab.1.bottom" timestamp="1603015445758">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="163" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1603015445758" />
+    <state width="845" height="163" key="GridCell.Tab.1.center" timestamp="1603015445757">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="163" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1603015445757" />
+    <state width="845" height="163" key="GridCell.Tab.1.left" timestamp="1603015445757">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="163" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1603015445757" />
+    <state width="845" height="163" key="GridCell.Tab.1.right" timestamp="1603015445758">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="163" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1603015445757" />
+    <state width="845" height="163" key="GridCell.Tab.2.bottom" timestamp="1603015445758">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="163" key="GridCell.Tab.2.bottom/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1603015445758" />
+    <state width="845" height="163" key="GridCell.Tab.2.center" timestamp="1603015445758">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="163" key="GridCell.Tab.2.center/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1603015445758" />
+    <state width="845" height="163" key="GridCell.Tab.2.left" timestamp="1603015445758">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="163" key="GridCell.Tab.2.left/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1603015445758" />
+    <state width="845" height="163" key="GridCell.Tab.2.right" timestamp="1603015445758">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="845" height="163" key="GridCell.Tab.2.right/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1603015445758" />
+    <state x="28" y="0" key="new project wizard" timestamp="1603015150289">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680/1920.0.1440.860@0.0.1280.680" timestamp="1603015150289" />
+  </component>
+</project>

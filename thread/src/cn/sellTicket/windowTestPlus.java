@@ -3,7 +3,7 @@ package cn.sellTicket;
 /**
  * @Author LiYun
  * @Date 2020/7/29 9:20
- * 使用同步方法处理继承Thread类的方式中的线程安全问题
+ * 使用同步方法处理继承 Thread类的方式中的线程安全问题
  *
  */
 

@@ -7,7 +7,7 @@ package cn.ly.mycollection;
  * 实现 get 方法， 根据键对象获得对应的值对象
  */
 public class HashMap04 <K,V>{
-    Node3[] table;  //bucket array
+    Node3[] table;  //bucket array位桶数组
     int size;       //键值对的个数
 
     public HashMap04(){

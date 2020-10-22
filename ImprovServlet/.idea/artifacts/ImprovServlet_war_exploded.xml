@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ImprovServlet:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ImprovServlet_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ImprovServlet/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ImprovServlet" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

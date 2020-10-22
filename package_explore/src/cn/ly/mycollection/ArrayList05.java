@@ -1,14 +1,14 @@
 package cn.ly.mycollection;
 /**
  * ArrayList4.0
- * 增加remove
+ * 增加 remove
  * */
 
 public class ArrayList05<E> {
     private Object[] elementData;
     private int size;
-
     private static final int DEFAULT_CAPACITY = 10;
+
 
     public ArrayList05(){
 
@@ -75,6 +75,7 @@ public class ArrayList05<E> {
         return size==0?true:false;
     }
 
+    @Override
     public String toString(){
         StringBuilder sb = new StringBuilder();
         sb.append("[");

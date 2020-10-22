@@ -1,0 +1,8 @@
+<servlet>
+<servlet-name>servlet</servlet-name>
+<servlet-class>servlet.BeanServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>servlet</servlet-name>
+<url-pattern>*.do</url-pattern>
+</servlet-mapping>
